@@ -15,7 +15,6 @@ to English Premier League by official managers on-field.
 
 ## References
 
-
 * https://arxiv.org/abs/1909.12938
 * Han J, Kamber M, Pei J. Data Preprocessing. Data Mining Concepts and Techniques 2011; 83-124: Morgan Kauffman Publications.
 * Shivani, K. S. Sandhu and A. Ramachandran Nair, "A Comparative Study of ARIMA and RNN for Short Term Wind Speed Forecasting," 2019 10th International Conference on Computing, Communication and Networking Technologies (ICCCNT), Kanpur, India, 2019, pp. 1-7, doi: 10.1109/ICCCNT45670.2019.8944466.
