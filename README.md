@@ -12,4 +12,4 @@ of prepared model. Constraints on the types of players like goalkeepers, defende
 effectively optimised using LPP approach. The validation of the proposed team was done with the performance in ongoing season, where the
 players outperformed as expected, and helped in strengthening the feasibility of the solution. Likewise, the proposed approach can be extended
 to English Premier League by official managers on-field. 
-Gupta, A. (2019). Time series modeling for dream team in fantasy premier league. arXiv preprint arXiv:1909.12938.
+### Gupta, A. (2019). Time series modeling for dream team in fantasy premier league. arXiv preprint arXiv:1909.12938.
